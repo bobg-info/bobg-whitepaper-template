@@ -1,1 +1,2 @@
-# bobg-whitepaper-template
+# About the Game
+
